@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "username": "username",
+      "email": "email",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "username": "admin",
+      "email": "admin",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "username",
+      "email": "eeeeee",
+      "password": "123",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "awawawaaaw",
+      "desc": "lorem impsum",
+      "price": 333,
+      "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "id": 6
+    },
+    {
+      "name": "Kaos Sport",
+      "desc": "kaos sprot adem anyem nyaman seperti dia",
+      "price": 234,
+      "src": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+      "id": 7
+    },
+    {
+      "name": "Helio",
+      "desc": "Jam tangan seputih mukanya",
+      "price": 999,
+      "src": "https://images.unsplash.com/photo-1526045431048-f857369baa09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "id": 8
+    },
+    {
+      "name": "sepatu",
+      "desc": "sneaker kantong bocor",
+      "price": 777,
+      "src": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=343&q=80",
+      "id": 9
+    },
+    {
+      "name": "gamis",
+      "desc": "lorem",
+      "price": 888,
+      "src": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "id": 10
+    },
+    {
+      "name": "gamis",
+      "desc": "lorem",
+      "price": 155,
+      "src": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "id": 11
+    },
+    {
+      "name": "gamis",
+      "desc": "lorem",
+      "price": 333,
+      "src": "https://images.unsplash.com/photo-1511556820780-d912e42b4980?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+      "id": 12
+    },
+    {
+      "name": "gamis",
+      "desc": "lorem",
+      "price": 222,
+      "src": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=369&q=80",
+      "id": 13
+    }
+  ],
+  "cart": [
+    {
+      "id_products_cart": 6,
+      "username": "admin",
+      "name_products_cart": "awawawaaaw",
+      "desc_products_cart": "lorem impsum",
+      "price_products_cart": 333,
+      "qty_products_cart": 2,
+      "src_products_cart": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "id": 1
+    },
+    {
+      "id_products_cart": 7,
+      "username": "admin",
+      "name_products_cart": "Kaos Sport",
+      "desc_products_cart": "kaos sprot adem anyem nyaman seperti dia",
+      "price_products_cart": 234,
+      "qty_products_cart": 2,
+      "src_products_cart": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+      "id": 2
+    },
+    {
+      "id_products_cart": 10,
+      "username": "username",
+      "name_products_cart": "gamis",
+      "desc_products_cart": "lorem",
+      "price_products_cart": 888,
+      "qty_products_cart": 1,
+      "src_products_cart": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "id": 3
+    },
+    {
+      "id_products_cart": 11,
+      "username": "username",
+      "name_products_cart": "gamis",
+      "desc_products_cart": "lorem",
+      "price_products_cart": 155,
+      "qty_products_cart": 2,
+      "src_products_cart": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "id": 4
+    }
+  ]
+}

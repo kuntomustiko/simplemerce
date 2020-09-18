@@ -1,0 +1,22 @@
+
+INSERT INTO `products` VALUES 
+(35, 3,2,'Simple Plain Gold','ring-1.jpg','Cincin Emas Keren',50, 20, 10000000, 5, 500, 100, '2020-06-30 13:06:16', '2020-06-30 13:06:16'),
+(36, 3,2,'Fingerprint  ','ring-2.jpg','Cincin Emas Keren',50, 20,20000000,2,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(37, 3,2,'Matching   in Silver','ring-3.jpg','Cincin Emas Keren',50, 20,30000000,3,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(38, 3,2,'  in Rose Gold','ring-4.jpg','Cincin Emas Keren',50, 20,40000000,4,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(39, 3,2,'Simple Diamond Gold ','ring-5.jpg','Cincin Emas Keren',50, 20,50000000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(40, 3,2,'Butterfly Vintage Rose Gold  with Heart Shape Diamond','ring-6.jpg','Cincin Emas Keren',50, 20,60000000,1.75,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(41, 3,2,'Cushion-Cut Rose Gold ','ring-7.jpg','Cincin Emas Keren',50, 20,70000000,2.25,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(42, 3,2,'Princess-Cut Diamond  ','ring-8.jpg','Cincin Emas Keren',50, 20,80000000,1.75,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(43, 3,2,'Couple White Gold  ','ring-9.jpg','Cincin Emas Keren',50, 20,90000000,3.25,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(44, 3,2,'Couple White Gold  ','ring-10.jpg','Cincin Emas Keren',50, 20,100000000,3.25,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(45, 3,2,'White Pave Diamond','ring-11.jpg','Cincin Emas Keren',50, 20,17000000,4.15,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(46, 3,2,'Platinum   Set for Men and Women','ring-12.jpg','Cincin Emas Keren',50, 20,19000000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(47, 3,2,'Unique   for Couples Silver','ring-13.jpg','Cincin Emas Keren',50, 20,121300000,4.25,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(48, 3,2,'Ruby Stud Men’s ','ring-14.jpg','Cincin Emas Keren',50, 20,121800000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(49, 3,2,'Indian Vintage Gold  ','ring-15.jpg','Cincin Emas Keren',50, 20,134560000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(50, 3,2,'Names Engraved  ','ring-16.jpg','Cincin Emas Keren',50, 20,11200000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(51, 3,2,'Traditional Indian Bridal Ring in Gold','ring-17.jpg','Cincin Emas Keren',50, 20,106870000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(52, 3,2,'Traditional Indian  for Groom','ring-18.jpg','Cincin Emas Keren',50, 20,198760000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(53, 3,2,'South Indian Pattern   for Women','ring-19.jpg','Cincin Emas Keren',50, 20,102130000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16'),
+(54, 3,2,'Designer Girls ','ring-20.jpg','Cincin Emas Keren',50, 20,102130000,5,500,100,'2020-06-30 13:06:16','2020-06-30 13:06:16');

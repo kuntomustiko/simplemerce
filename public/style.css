@@ -1,0 +1,9 @@
+table img.list {
+    width: 60px !important;
+    border-radius: 50% !important; 
+}
+
+img.img-home{
+    width: 200px;
+    height: 200px;
+}
